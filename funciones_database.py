@@ -1,7 +1,7 @@
 import sqlite3
 
 # DECLARACION DE CONSTANTES
-ruta_db = "inventario.db"
+ruta_db = r"C:\Users\Julian Lucero\OneDrive\Codo a Codo\Python\Ejercicios\entregaFinal\inventario.db"
 
 
 # DECLARACION DE FUNCIONES
